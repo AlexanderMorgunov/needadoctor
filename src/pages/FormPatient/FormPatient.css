@@ -1,0 +1,14 @@
+.ant-input-number {
+    width: 100%;
+}
+.ant-tag {
+    background-color: #1677ff;
+    border: 1px solid;
+}
+.ant-picker {
+    width: 100%;
+}
+
+#nest-messages_user_other {
+    max-height: 150px;
+}

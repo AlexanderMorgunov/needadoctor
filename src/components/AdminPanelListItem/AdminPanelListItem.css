@@ -1,0 +1,12 @@
+.adminPanel-collapse {
+    text-align: end;
+}
+.adminPanel-panel-confirmed {
+    border-top: solid 1px #39E19B
+}
+.adminPanel-panel-canceled {
+    border-top: solid 1px #E06964;
+}
+.adminPanel-panel-active {
+    border-top: solid 1px #424242;
+}

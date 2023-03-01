@@ -1,0 +1,6 @@
+.AdminPage_layout {
+    display: block;
+    height: calc(100vh - 140px);
+    align-items: center;
+    overflow-y: scroll;
+  }
