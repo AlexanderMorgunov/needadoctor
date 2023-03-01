@@ -166,12 +166,12 @@ const [form] = Form.useForm();
       </Form.Item>
        <Form.Item
         name="phone"
-        label="Phone Number"
+        label="Номер телефона"
         rules={[{ required: true, message: 'Пожалуйста, введите контактый номер телефона!' }]}
         >
         <Input addonBefore={prefixSelector} style={{ width: '100%' }}/>
       </Form.Item>
-      <Form.Item label="DatePicker"
+      <Form.Item label="Желаемая дата"
       name="date"
        rules={[{ required: true, message: 'Пожалуйста, введите дату!' },({getFieldValue}) => ({
         validator(_: any, value: Moment) {
