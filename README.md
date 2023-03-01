@@ -15,6 +15,7 @@ SPA приложение.
 ### TypeScript
 ### React 
 ### Redux toolkit
+### React Router dom v6
 ### and design
 ### Google Firebase
 ### HTML
